@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game Status</string>
+    <string name="key_nickname">key_nickname</string>
+    <string name="key_vidas">key_vidas</string>
+    <string name="key_monedas">key_monedas</string>
+    <string name="key_nivel">key_nivel</string>
+    <string name="key_dark_mode">key_dark_mode</string>
+</resources>
